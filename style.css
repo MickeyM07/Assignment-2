@@ -30,18 +30,28 @@ body{
     font-family: Comic Sans MS, Comic Sans, cursive;
 
 }
-
-.images{
-    width: 50px;
-    height: 100px;
-}
-
 .spider-man-btsv{
     
     position: relative;
     right: 600px;
+    top: 700px;
+    width: 200px;
 }
 
 .subheader-items{
     margin: 50px;
+}
+
+.login{
+    position:relative;
+    display:flex;
+    width:500px;
+    height:200px;
+    background-color:black;
+    align-items:center;
+    flex-direction:column;
+    
+}
+
+.login-button:hover{
 }

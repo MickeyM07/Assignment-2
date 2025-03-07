@@ -7,9 +7,7 @@ body {
     background-color: rgb(21, 21, 21);
 }
 
-/* just a frame of reference */
-
-
+/*frame of reference */
 .frame {
     width: 100%;
     height: 100vh;
@@ -20,7 +18,6 @@ body {
 }
 
 /* navigation bar code */
-
 .navBar {
     display: grid;
     width: 100%;
@@ -28,7 +25,6 @@ body {
     background-color: black;
     align-items: center;
     grid-template-areas: "title title subheaders";
-
 }
 
 .logo {
@@ -57,7 +53,6 @@ body {
     font-family: Comic Sans MS, Comic Sans, cursive;
     position: relative;
     bottom: 40px;
-
 }
 
 .register:hover {
@@ -69,14 +64,11 @@ body {
 }
 
 /* hero code */
-
-
 .background-image {
     top: 50px;
     width: 100%;
     position: absolute;
     mask-image: linear-gradient(black, transparent);
-
 }
 
 .hero-title {
@@ -89,7 +81,6 @@ body {
     text-decoration: underline;
 }
 
-
 .hero-paragraph {
     width: 500px;
     position: relative;
@@ -100,9 +91,7 @@ body {
     text-decoration: underline;
 }
 
-
 /* login section code */
-
 .input-text {
     color: white;
 }
@@ -134,13 +123,11 @@ body {
 }
 
 /* feature section code */
-
 .images {
     display: flex;
     gap: 20px;
     position: relative;
     top: 200px;
-
 }
 
 .spider-man-btsv {
@@ -203,9 +190,7 @@ body {
     box-shadow: 0px 4px 10px rgba(255, 75, 43, 0.3);
 }
 
-
 /* footer code */
-
 .footer {
     display: flex;
     position: absolute;
@@ -224,9 +209,7 @@ body {
     gap: 30px;
     justify-items: center;
     right: 40%;
-
 }
-
 
 .footer-text {
     color: white;

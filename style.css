@@ -39,7 +39,7 @@ body {
 .register {
     position: relative;
     bottom: 40px;
-    left: 150px;
+    left: 40%;
     width: 100px;
     font-size: 20px;
 }
@@ -56,7 +56,7 @@ body {
 }
 
 .register:hover {
-    background-color: rgb(202, 202, 202);
+    background-color: rgb(190, 190, 190);
 }
 
 .subheader-items {
@@ -100,7 +100,7 @@ body {
     bottom: 130px;
     position: relative;
     display: flex;
-    width: 25%;
+    width: 30%;
     height: 20%;
     padding: 10px;
     background-color: #1a1a1a;
@@ -125,7 +125,7 @@ body {
 /* feature section code */
 .images {
     display: flex;
-    gap: 20px;
+    gap: 10px;
     position: relative;
     top: 200px;
 }
